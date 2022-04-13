@@ -8,8 +8,8 @@ const colors = [
 
 const options = {
     colors,
-    width: 500,
-    height: 500,
+    width: 200,
+    height: 200,
     save: true,
 }
 
